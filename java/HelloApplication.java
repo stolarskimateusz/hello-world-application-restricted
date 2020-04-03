@@ -7,7 +7,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 
-public class WebClientExample {
+public class HelloApplication {
 
     // replace with your actual key
     private static String API_KEY = "YOUR-APIKEY";
