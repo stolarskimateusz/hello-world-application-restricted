@@ -10,8 +10,8 @@ namespace dotnetapi
     {
         static async System.Threading.Tasks.Task Main(string[] args)
         {
-            // replace below api key with obtained by you
-            string apikey = "EHdHHobw2sEMZ1Aokk9KaoFKCYsLNmWI";
+            // replace with your actual key
+            string apikey = "YOUR-APIKEY";
             string url = "https://sandbox.api.service.nhs.uk/hello/application";
 
             HttpClient client = new HttpClient();
