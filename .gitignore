@@ -1,3 +1,4 @@
 python/venv/
 dotnet/bin/
 dotnet/obj/
+java/*.class
